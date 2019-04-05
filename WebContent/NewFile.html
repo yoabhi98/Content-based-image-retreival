@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<h1></h1>
+<center><form action="upload" method="post">
+    <input type="text" name="description" />
+    <input type="file" name="file"  accept="image/*"/>
+    <input type="submit" />
+</form></center>
+<script type="text/javascript">
+function getFilePath(){
+     $('input[type=file]').change(function () {
+         var filePath=$('#fileUpload').val(); 
+     });
+}
+</script>
+</body>
+</html>

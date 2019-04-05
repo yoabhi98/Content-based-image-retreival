@@ -1,0 +1,609 @@
+<!doctype html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+
+	<meta charset="UTF-8">
+
+	<!-- Always force latest IE rendering engine (even in intranet) -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<![endif]-->
+
+	
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://www.blogmarketingacademy.com/xmlrpc.php" />
+
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700|Lato:700" rel="stylesheet" type="text/css">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	
+	
+<!-- Social Warfare v3.3.3 https://warfareplugins.com --><style>@font-face {font-family: "sw-icon-font";src:url("https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.3.3");src:url("https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.3.3#iefix") format("embedded-opentype"),url("https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=3.3.3") format("woff"),
+	url("https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=3.3.3") format("truetype"),url("https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=3.3.3#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+<!-- Social Warfare v3.3.3 https://warfareplugins.com -->
+
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>How To Create A &#039;Contact Us&#039; Page That Invites Conversions And Generates Sales - Blog Marketing Academy</title>
+<link rel="canonical" href="https://www.blogmarketingacademy.com/contact-us-page-conversions/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How To Create A &#039;Contact Us&#039; Page That Invites Conversions And Generates Sales - Blog Marketing Academy" />
+<meta property="og:description" content="The &#039;Contact Us&#039; page is often an afterthought. However, done correctly, it can be an effective tool for driving sales and conversions. Here&#039;s how..." />
+<meta property="og:url" content="https://www.blogmarketingacademy.com/contact-us-page-conversions/" />
+<meta property="og:site_name" content="Blog Marketing Academy" />
+<meta property="article:publisher" content="https://www.facebook.com/blogmarketingacademy/" />
+<meta property="article:author" content="http://www.facebook.com/risley" />
+<meta property="article:tag" content="Blog Structure" />
+<meta property="article:tag" content="Conversion" />
+<meta property="article:tag" content="Customer Support" />
+<meta property="article:tag" content="Marketing" />
+<meta property="article:section" content="The Blog" />
+<meta property="article:published_time" content="2018-07-15T21:33:49+00:00" />
+<meta property="article:modified_time" content="2018-07-21T17:21:52+00:00" />
+<meta property="og:updated_time" content="2018-07-21T17:21:52+00:00" />
+<meta property="og:image" content="https://www.blogmarketingacademy.com/wp-content/uploads/2017/06/contact-us.jpg" />
+<meta property="og:image:secure_url" content="https://www.blogmarketingacademy.com/wp-content/uploads/2017/06/contact-us.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="The &#039;Contact Us&#039; page is often an afterthought. However, done correctly, it can be an effective tool for driving sales and conversions. Here&#039;s how..." />
+<meta name="twitter:title" content="How To Create A &#039;Contact Us&#039; Page That Invites Conversions And Generates Sales - Blog Marketing Academy" />
+<meta name="twitter:site" content="@davidrisley" />
+<meta name="twitter:image" content="https://www.blogmarketingacademy.com/wp-content/uploads/2017/06/contact-us.jpg" />
+<meta name="twitter:creator" content="@davidrisley" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Blog Marketing Academy &raquo; How To Create A &#8216;Contact Us&#8217; Page That Invites Conversions And Generates Sales Comments Feed" href="https://www.blogmarketingacademy.com/contact-us-page-conversions/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.blogmarketingacademy.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='membermouse-jquery-css-css'  href='//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+<link rel='stylesheet' id='membermouse-main-css'  href='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/membermouse/resources/css/common/mm-main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='membermouse-buttons-css'  href='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/membermouse/resources/css/common/mm-buttons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='membermouse-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_style_family_tve_flt-css'  href='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/thrive-visual-editor/editor/css/thrive_flat.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_leads_forms-css'  href='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/thrive-leads/editor-layouts/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wtr-css-css'  href='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/worth-the-read/css/wtr.css' type='text/css' media='all' />
+<link rel='stylesheet' id='social_warfare-css'  href='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/social-warfare/assets/css/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/themes/memberoni/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/themes/bmalab/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MemberMouseGlobal = {"jsIsAdmin":"","adminUrl":"https:\/\/www.blogmarketingacademy.com\/wp-admin\/","globalurl":"https:\/\/www.blogmarketingacademy.com\/wp-content\/plugins\/membermouse","checkoutProcessingPaidMessage":"Please wait while we process your order...","checkoutProcessingFreeMessage":"Please wait while we create your account...","checkoutProcessingMessageCSS":"mm-checkout-processing-message","currencyInfo":{"currency":"USD","postfixIso":false,"name":"United States Dollar","int_curr_symbol":"&#85;&#83;&#68;&#32;","currency_symbol":"$","mon_decimal_point":".","mon_thousands_sep":",","mon_grouping":"3;3","positive_sign":"","negative_sign":"","int_frac_digits":"2","frac_digits":"2","p_cs_precedes":"1","p_sep_by_space":"0","n_cs_precedes":"1","n_sep_by_space":"0","p_sign_posn":"1","n_sign_posn":"1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/membermouse/resources/js/global.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/membermouse/resources/js/common/mm-common-core.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/membermouse/resources/js/user/mm-preview.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/pixelyoursite-pro/js/jquery.bind-first-0.2.3.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/pixelyoursite-pro/js/js.cookie-2.1.3.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pys_fb_pixel_options = {"site_url":"https:\/\/www.blogmarketingacademy.com","ajax_url":"https:\/\/www.blogmarketingacademy.com\/wp-admin\/admin-ajax.php","domain":"www.blogmarketingacademy.com","track_traffic_source":"1","click_event_enabled":"1","adsense_enabled":"1","content_params":{"post_type":"post","content_name":"How To Create A 'Contact Us' Page That Invites Conversions And Generates Sales","post_id":14196,"content_category":"The Blog","tags":"Blog Structure, Conversion, Customer Support, Marketing","domain":"www.blogmarketingacademy.com","user_roles":"guest"}};
+var pys_fb_pixel_regular_events = [{"type":"init","name":"1429964817251669","params":[]},{"type":"track","name":"PageView","params":{"domain":"www.blogmarketingacademy.com","user_roles":"guest"},"delay":0},{"type":"trackCustom","name":"GeneralEvent","params":{"post_type":"post","content_name":"How To Create A 'Contact Us' Page That Invites Conversions And Generates Sales","post_id":"14196","content_category":"The Blog","tags":"Blog Structure, Conversion, Customer Support, Marketing","domain":"www.blogmarketingacademy.com","user_roles":"guest"},"delay":20}];
+var pys_fb_pixel_dynamic_events = [];
+var pys_fb_pixel_dynamic_triggers = [];
+var pys_fb_pixel_custom_code_events = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/pixelyoursite-pro/js/public.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/pixelyoursite-pro/js/yt-track.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/pixelyoursite-pro/js/vimeo.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/pixelyoursite-pro/js/vimeo-track.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/pixelyoursite-pro/js/adsense-track.js'></script>
+<link rel='https://api.w.org/' href='https://www.blogmarketingacademy.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.blogmarketingacademy.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.blogmarketingacademy.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.blogmarketingacademy.com/?p=14196' />
+<link rel="alternate" type="application/json+oembed" href="https://www.blogmarketingacademy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.blogmarketingacademy.com%2Fcontact-us-page-conversions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.blogmarketingacademy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.blogmarketingacademy.com%2Fcontact-us-page-conversions%2F&#038;format=xml" />
+<style type="text/css">#tve_editor .ttfm1{font-family: 'Lato' !important;font-weight: 400 !important;}.ttfm1 input, .ttfm1 select, .ttfm1 textarea, .ttfm1 button {font-family: 'Lato' !important;font-weight: 400 !important;}#tve_editor .ttfm1.bold_text,.ttfm1 .bold_text,.ttfm1 b,.ttfm1 strong{font-weight: 700 !important;}.ttfm1.bold_text,.ttfm1 .bold_text,.ttfm1 b,.ttfm1 strong input, .ttfm1.bold_text,.ttfm1 .bold_text,.ttfm1 b,.ttfm1 strong select, .ttfm1.bold_text,.ttfm1 .bold_text,.ttfm1 b,.ttfm1 strong textarea, .ttfm1.bold_text,.ttfm1 .bold_text,.ttfm1 b,.ttfm1 strong button {font-weight: 700 !important;}#tve_editor .ttfm2{font-family: 'Raleway' !important;font-weight: 400 !important;}.ttfm2 input, .ttfm2 select, .ttfm2 textarea, .ttfm2 button {font-family: 'Raleway' !important;font-weight: 400 !important;}#tve_editor .ttfm2.bold_text,.ttfm2 .bold_text,.ttfm2 b,.ttfm2 strong{font-weight: 500 !important;}.ttfm2.bold_text,.ttfm2 .bold_text,.ttfm2 b,.ttfm2 strong input, .ttfm2.bold_text,.ttfm2 .bold_text,.ttfm2 b,.ttfm2 strong select, .ttfm2.bold_text,.ttfm2 .bold_text,.ttfm2 b,.ttfm2 strong textarea, .ttfm2.bold_text,.ttfm2 .bold_text,.ttfm2 b,.ttfm2 strong button {font-weight: 500 !important;}</style><style type="text/css">.wtr-time-wrap{ 
+	/* wraps the entire label */
+    margin: 0;
+}
+.wtr-time-number{ 
+	/* applies only to the number */
+	
+}</style><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9K7FJ');</script>
+<!-- End Google Tag Manager -->
+<script defer src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/themes/bmalab/scrolltofixed.js"></script>
+<script>
+	jQuery(document).ready(function () {
+		jQuery('a[href="#search"]').on('click', function(event) {
+			event.preventDefault();
+			jQuery('#search').addClass('open');
+			jQuery('#search > form > input[type="search"]').focus();
+		});
+	
+		jQuery('#search, #search button.close').on('click keyup', function(event) {
+			if (event.target == this || event.target.className == 'close' || event.keyCode == 27) {
+				jQuery(this).removeClass('open');
+			}
+		});
+	});
+    jQuery(document).ready(function() {
+        jQuery('#mainheader').scrollToFixed();
+    });
+</script>
+
+<!-- Facebook Pixel code is added on this page by PixelYourSite 6.3.5 addon. You can test it with Pixel Helper Chrome Extension. -->
+
+<link rel="icon" href="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/cropped-bma-icon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/cropped-bma-icon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/cropped-bma-icon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.blogmarketingacademy.com/wp-content/uploads/2018/11/cropped-bma-icon-270x270.jpg" />
+<style type="text/css" title="dynamic-css" class="options-output">.wtr-time-wrap{line-height:14px;color:#000000;font-size:14px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .wtr-time-wrap,{opacity: 0;}.ie.wf-loading .wtr-time-wrap,{visibility: hidden;}</style>	
+	<link rel="stylesheet" href="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/themes/memberoni/style/style.css?v=1.4.7.1" />
+	<link rel="stylesheet" href="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/themes/bmalab/style.css?v=1.4.7.1" />
+
+	    <style>
+    .blue{color:}.orange{color:}.green{color:}.yellow{color:}h1.page-title{color:}h1.page-title a{color:}h1.page-title a:hover{color:}h2.page-title{background-color:;}a{color:}a:hover{color:}.bigbutton,.button,a.atcb-link,a.button{background:;color:#fff;}.bigbutton:hover,.button:hover,a.atcb-link:hover,a.button:hover{background:}.bigbutton.inactive,.button.inactive,a.atcb-link.inactive,a.button.inactive{background-color:}.bigbutton.button-orange,.button.button-orange,a.atcb-link.button-orange,a.button.button-orange{background-color:}.bigbutton.button-orange:hover,.button.button-orange:hover,a.atcb-link.button-orange:hover,a.button.button-orange:hover{background-color:}#header{background-color:#ffffff;}#header .user_profile nav.member_menu{background:}#header .user_profile nav.member_menu ul li a:hover{background-color:}#nav_main{background-color:#ffffff}#nav_main ul li:hover a{color:}#nav_main ul ul{background:}#nav_main ul ul li:hover{background-color:}#nav_main ul#menu-main-menu>li.current-menu-item>a,#nav_main ul#menu-main-menu>li.highlight>a{background-color:;}#nav_main ul#menu-main-menu>li.current-menu-item>a:hover,#nav_main ul#menu-main-menu>li.highlight>a:hover{background-color:}#nav_main ul#menu-main-menu>li.highlight_alt a{color:}ol.commentlist li div.comment-meta a{color:}nav#lesson_categories ul li a{color:;}nav#lesson_categories ul li a:hover{background-color:}nav#lesson_categories ul li a.active{background-color:;}nav#lesson_categories ul li.view_all a{background-color:;}nav#lesson_categories ul li.view_all a.active{background-color:}nav#lesson_categories ul li.view_all a:hover{color:}.course-listing .course-thumb .coming-soon-overlay .coming-soon-message{background-color:;}.course-listing .course-content h4 a{color:}.course-listing.training_listing.listing_history .course-thumb span.viewed_time{background-color:}.course-listing.training_listing.listing_history h6{color:}.course-listing.training_listing.listing_history h6 a{color:}#lesson_list li:hover{color:}.article.article-listing{border-bottom:1px solid }.article h1.article_title{color:}.article h1.article_title a{color:}.article h1.article_title a:hover{color:}#course_lesson_box ul.course_lesson_list li a{color:}#course_lesson_box ul.course_lesson_list li a:hover{background-color:}#course_lesson_box ul.course_lesson_list li.active{background-color:;}#course_lesson_box h1{background-color:}#footer{background-color:;}.button.addthisevent-drop{background-color:!important;}.dashboard_account .user_account .user_details h1{color:}.dashboard_account ul.user_account_links li a{background-color:}.dashboard_account ul.user_account_links li a:hover{background-color:}.dashboard .dashboard_sections .section_block h1 a{color:}.dashboard .dashboard_sections .section_block h1 a:hover{color:}.dashboard .dashboard_bottom .section_title{border-bottom:1px solid }.dashboard .dashboard_bottom .section_title.title_orange{border-color:}.dashboard .dashboard_bottom .section_title.title_blue{border-color:}.dashboard .dashboard_bottom .section_title.title_yellow{border-color:}.dashboard .dashboard_bottom .section_title.title_green{border-color:}.dashboard .dashboard_bottom .recent_content .content_details h1 a{color:}.dashboard .dashboard_bottom .recent_content .content_details h1 a:hover{color:}.sidebar aside h3 a{color:}.sidebar aside h3 a:hover{color:}.nav-links .nav-next a,.nav-links .nav-previous a{background-color:}.gforms_confirmation_message{border-bottom:8px solid }.highlight{border:3px solid ;}.highlight.highlight_orange{border-color:;}.highlight.highlight_blue{border-color:;}.highlight.highlight_green{border-color:;}.highlight a:hover{text-decoration:underline}form input[type=submit]{background:;}form input[type=submit]:hover{background:}form input[type=submit].inactive{background-color:}form input[type=submit].button-orange{background-color:}form input[type=submit].button-orange:hover{background-color:}.mp_wrapper table th,.mp_wrapper table thead{background-color:;border:1px solid ;text-shadow:1px 1px 0 ;border-bottom:3px solid }.mepr-login-actions a[href$='action=newpassword'],.mepr-login-actions a[href$='action=forgot_password'],.mp_wrapper a[href$='action=newpassword'],.mp_wrapper a[href$='action=forgot_password']{background:;}.mepr-login-actions a[href$='action=newpassword']:hover,.mepr-login-actions a[href$='action=forgot_password']:hover,.mp_wrapper a[href$='action=newpassword']:hover,.mp_wrapper a[href$='action=forgot_password']:hover{background:}.mepr-login-actions a[href$='action=newpassword'].inactive,.mepr-login-actions a[href$='action=forgot_password'].inactive,.mp_wrapper a[href$='action=newpassword'].inactive,.mp_wrapper a[href$='action=forgot_password'].inactive{background-color:}.mepr-login-actions a[href$='action=newpassword'].button-orange,.mepr-login-actions a[href$='action=forgot_password'].button-orange,.mp_wrapper a[href$='action=newpassword'].button-orange,.mp_wrapper a[href$='action=forgot_password'].button-orange{background-color:}.mepr-login-actions a[href$='action=newpassword'].button-orange:hover,.mepr-login-actions a[href$='action=forgot_password'].button-orange:hover,.mp_wrapper a[href$='action=newpassword'].button-orange:hover,.mp_wrapper a[href$='action=forgot_password'].button-orange:hover{background-color:}#mepr-member-account-wrapper input[type=submit],#mepr_loginform input[type=submit],.mepr-signup-form input[type=submit],.mp_wrapper form input[type=submit]{background:;}#mepr-member-account-wrapper input[type=submit]:hover,#mepr_loginform input[type=submit]:hover,.mepr-signup-form input[type=submit]:hover,.mp_wrapper form input[type=submit]:hover{background:}#mepr-member-account-wrapper input[type=submit].inactive,#mepr_loginform input[type=submit].inactive,.mepr-signup-form input[type=submit].inactive,.mp_wrapper form input[type=submit].inactive{background-color:}#mepr-member-account-wrapper input[type=submit].button-orange,#mepr_loginform input[type=submit].button-orange,.mepr-signup-form input[type=submit].button-orange,.mp_wrapper form input[type=submit].button-orange{background-color:}#mepr-member-account-wrapper input[type=submit].button-orange:hover,#mepr_loginform input[type=submit].button-orange:hover,.mepr-signup-form input[type=submit].button-orange:hover,.mp_wrapper form input[type=submit].button-orange:hover{background-color:}#mepr_loginform .mepr_price_cell,.mepr-signup-form .mepr_price_cell{color:}#mepr-member-account-wrapper #mepr-account-nav span.mepr-active-nav-tab a,.mp_wrapper #mepr-account-nav span.mepr-active-nav-tab a{background-color:;}.gform_wrapper form input[type=submit]{background:;}.gform_wrapper form input[type=submit]:hover{background:}.gform_wrapper form input[type=submit].inactive{background-color:}.gform_wrapper form input[type=submit].button-orange{background-color:}.gform_wrapper form input[type=submit].button-orange:hover{background-color:}.mobile-nav{background-color:}#buddypress .comment-reply-link,#buddypress .generic-button a,#buddypress a.button,#buddypress button,#buddypress input[type=button],#buddypress input[type=reset],#buddypress input[type=submit],#buddypress ul.button-nav li a,a.bp-title-button{background:;}#buddypress .comment-reply-link:hover,#buddypress .generic-button a:hover,#buddypress a.button:hover,#buddypress button:hover,#buddypress input[type=button]:hover,#buddypress input[type=reset]:hover,#buddypress input[type=submit]:hover,#buddypress ul.button-nav li a:hover,a.bp-title-button:hover{background:}#buddypress .comment-reply-link.inactive,#buddypress .generic-button a.inactive,#buddypress a.button.inactive,#buddypress button.inactive,#buddypress input[type=button].inactive,#buddypress input[type=reset].inactive,#buddypress input[type=submit].inactive,#buddypress ul.button-nav li a.inactive,a.bp-title-button.inactive{background-color:}#buddypress .comment-reply-link.button-orange,#buddypress .generic-button a.button-orange,#buddypress a.button.button-orange,#buddypress button.button-orange,#buddypress input[type=button].button-orange,#buddypress input[type=reset].button-orange,#buddypress input[type=submit].button-orange,#buddypress ul.button-nav li a.button-orange,a.bp-title-button.button-orange{background-color:}#buddypress .comment-reply-link.button-orange:hover,#buddypress .generic-button a.button-orange:hover,#buddypress a.button.button-orange:hover,#buddypress button.button-orange:hover,#buddypress input[type=button].button-orange:hover,#buddypress input[type=reset].button-orange:hover,#buddypress input[type=submit].button-orange:hover,#buddypress ul.button-nav li a.button-orange:hover,a.bp-title-button.button-orange:hover{background-color:}.course-listing .course_completion{background-color:;}.course-listing .course_completion.completed{background-color:}.lesson_downloads h2,.jumplinks h3 {background-color: ;}.lesson_downloads .download_links a span.download_type {background-color: ; }.lesson_downloads .download_links a:hover {color:;}
+        #course_lesson_box.course_downloads .download_type {color: ;}#course_lesson_box ul.course_lesson_list li ul.sub-menu li a:hover {background-color: ;}#course_lesson_box ul.course_lesson_list li.menu-item-has-children > a {background-color: ;}
+    </style>
+
+	
+		
+	<script defer src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/themes/memberoni/scripts/jquery.fitvids.min.js"></script>
+<script>
+			jQuery(document).ready(function(){
+			    jQuery(".lesson_video").fitVids();
+			    jQuery(".lesson_content").fitVids();
+			    jQuery(".article").fitVids();
+					jQuery( "div.user_profile" ).click(function() {
+				  jQuery( this ).toggleClass( "member_menu_active" );
+				});
+			});
+		</script>
+
+	
+		
+	
+		
+	
+	    
+
+
+
+
+</head>
+
+<body class="post-template-default single single-post postid-14196 single-format-standard">
+
+		<header id="header">
+	
+				<div id="preheader" class="clearfix">
+			<div class="container">
+			<div class="fright">
+			<div class="menu-pre-header-public-container"><ul id="menu-pre-header-public" class="menu"><li id="menu-item-15363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15363"><a href="https://www.blogmarketingacademy.com/ask/">Ask BMA</a></li>
+<li id="menu-item-14708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14708"><a href="https://www.blogmarketingacademy.com/daily/">Get The Daily</a></li>
+<li id="menu-item-15139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15139"><a href="https://www.blogmarketingacademy.com/successes/">Successes</a></li>
+<li id="menu-item-15141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15141"><a href="https://www.blogmarketingacademy.com/platinum/">Coaching</a></li>
+<li id="menu-item-14552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14552"><a href="https://www.blogmarketingacademy.com/contact/">Support</a></li>
+<li id="menu-item-15436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15436"><a href="https://www.blogmarketingacademy.com/login/">Login</a></li>
+<li id="menu-item-15142" class="notifications menu-item menu-item-type-custom menu-item-object-custom menu-item-15142"><a href="#">What&#8217;s New</a></li>
+</ul></div>			</div>
+			</div>
+		</div>
+			
+		<div id="mainheader" class="clearfix">
+		<div class="container">
+				<button class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></button>
+  		<button class="cross"><i class="fa fa-times" aria-hidden="true"></i></button>
+		<h1><a href="https://www.blogmarketingacademy.com/" title="Blog Marketing Academy" rel="home" style="background-image:url(https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/bma-logo-header.jpg);">Blog Marketing Academy</a></h1>
+
+				<nav id="nav_main">
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-15435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15435"><a href="https://www.blogmarketingacademy.com/start/">Start Here</a></li>
+<li id="menu-item-15133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15133"><a href="https://www.blogmarketingacademy.com/library/">Courses</a></li>
+<li id="menu-item-12842" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-12842 current-menu-item"><a href="https://www.blogmarketingacademy.com/blog/">Blog</a></li>
+<li id="menu-item-15404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15404"><a href="https://www.blogmarketingacademy.com/coffeebreak/">Podcast</a></li>
+<li id="menu-item-12922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12922"><a href="https://www.blogmarketingacademy.com/resources/">Toolkit</a></li>
+<li id="menu-item-15135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15135"><a href="https://www.blogmarketingacademy.com/about/">About</a></li>
+<li id="menu-item-15579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15579"><a href="https://www.blogmarketingacademy.com/products/">Products <i class="fa fa-sort-desc" aria-hidden="true"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-15580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15580"><a href="https://www.blogmarketingacademy.com/library/">All Courses</a></li>
+	<li id="menu-item-15581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15581"><a href="https://www.blogmarketingacademy.com/lab/">All Access Pass (LAB)</a></li>
+	<li id="menu-item-15582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15582"><a href="https://www.blogmarketingacademy.com/platinum/">Lab Platinum (Coaching)</a></li>
+	<li id="menu-item-15583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15583"><a href="https://www.blogmarketingacademy.com/site-review/">Private Site Review</a></li>
+</ul>
+</li>
+<li id="menu-item-12496" class="lab menu-item menu-item-type-custom menu-item-object-custom menu-item-12496"><a href="/lab/">Enter The Lab</a></li>
+<li id="menu-item-12872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12872"><a href="#search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+</ul></div>     
+            <div class="cb"></div>
+		</nav> 
+		<nav id="responsivemenu" class="mobile-nav">
+			<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15435"><a href="https://www.blogmarketingacademy.com/start/">Start Here</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15133"><a href="https://www.blogmarketingacademy.com/library/">Courses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-12842 current-menu-item"><a href="https://www.blogmarketingacademy.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15404"><a href="https://www.blogmarketingacademy.com/coffeebreak/">Podcast</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12922"><a href="https://www.blogmarketingacademy.com/resources/">Toolkit</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15135"><a href="https://www.blogmarketingacademy.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15579"><a href="https://www.blogmarketingacademy.com/products/">Products <i class="fa fa-sort-desc" aria-hidden="true"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15580"><a href="https://www.blogmarketingacademy.com/library/">All Courses</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15581"><a href="https://www.blogmarketingacademy.com/lab/">All Access Pass (LAB)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15582"><a href="https://www.blogmarketingacademy.com/platinum/">Lab Platinum (Coaching)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15583"><a href="https://www.blogmarketingacademy.com/site-review/">Private Site Review</a></li>
+</ul>
+</li>
+<li class="lab menu-item menu-item-type-custom menu-item-object-custom menu-item-12496"><a href="/lab/">Enter The Lab</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12872"><a href="#search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+</ul></div>		</nav> 
+			
+		<div id="search">
+			<button type="button" class="close">×</button>
+			<form method="get" action="https://www.blogmarketingacademy.com">
+				<input type="search" value="" name="s" placeholder="type keyword(s) here" />
+				<button type="submit" class="button btn btn-primary">Search</button>
+			</form>
+    
+    		</div>
+		</div>
+		</div>
+
+	</header>
+
+
+  
+
+<div id="contentcontainer">	
+<header class="blog_post_top_optin">
+		<div class="inner">
+			
+		<h3>Make smart progress and avoid pitfalls as you build your blog-based business.</h3>
+		<h4>Download my free New Blog Business Starter Kit.</h4>
+		
+			<a class="button gold" href="https://www.blogmarketingacademy.com/lp/starter-kit/"><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download Now</a>
+		
+		</div>
+		<div class="clear"></div>
+	</header> 
+	
+<section id="content" class="inner oh" >
+
+
+	
+	<div class="col-full">
+
+				
+
+          <article class="article">
+          	          	<h1>How To Create A &#8216;Contact Us&#8217; Page That Invites Conversions And Generates Sales</h1>
+          	
+				
+				<div class="article-content">
+				
+				<div class="swp_social_panel swp_horizontal_panel  swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color  scale-100  scale-"  data-min-width='1100' " data-float-color="#ffffff" data-float="bottom" data-float-mobile="" style="" ><div class="nc_tweetContainer swp_facebook" data-network="facebook"><a rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.blogmarketingacademy.com%2Fcontact-us-page-conversions%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.blogmarketingacademy.com%2Fcontact-us-page-conversions%2F" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_twitter" data-network="twitter"><a rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=How+To+Create+A+%27Contact+Us%27+Page+That+Invites+Conversions+And+Generates+Sales&url=https%3A%2F%2Fwww.blogmarketingacademy.com%2Fcontact-us-page-conversions%2F&via=davidrisley" data-link="https://twitter.com/intent/tweet?text=How+To+Create+A+%27Contact+Us%27+Page+That+Invites+Conversions+And+Generates+Sales&url=https%3A%2F%2Fwww.blogmarketingacademy.com%2Fcontact-us-page-conversions%2F&via=davidrisley" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet noPop" onClick="var e=document.createElement('script');
+						   e.setAttribute('type','text/javascript');
+						   e.setAttribute('charset','UTF-8');
+						   e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+						   document.body.appendChild(e);
+						" ><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div>				
+
+	
+	
+	<div class="clearfix">
+	<div class="post_top_cta">
+	<p>The &#8216;Contact Us&#8217; page is often an afterthought. However, done correctly, it can be an effective tool for driving sales and conversions. Here&#8217;s how&#8230;</p>
+	
+		</div>
+	
+	</div>
+	
+
+	          <img width="400" height="225" src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/contact-us.jpg" class="alignleft wp-post-image" alt="" srcset="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/contact-us.jpg 1280w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/contact-us-300x169.jpg 300w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/contact-us-768x432.jpg 768w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/contact-us-1024x576.jpg 1024w" sizes="(max-width: 400px) 100vw, 400px" />    
+				<div id="wtr-content" 
+	    	data-bg="#FFFFFF" 
+	    	data-fg="#1e73be" 
+	    	data-width="5" 
+	    	data-mute="" 
+	    	data-fgopacity="0.5" 
+	    	data-mutedopacity="0.5" 
+	    	data-placement="top" 
+	    	data-placement-offset="0" 
+	    	data-content-offset="0" 
+	    	data-placement-touch="top" 
+		    data-placement-offset-touch="0" 
+	    	data-transparent="" 
+	    	data-touch="" 
+	    	data-comments="" 
+	    	data-commentsbg="#ffcece" 
+	    	data-location="page" 
+	    	data-mutedfg="#f44813" 
+	    	><p>The &#8220;Contact Us&#8221; page. Perhaps one of the more overlooked pages on websites these days.</p>
+<p>Slap an email address or a form on there and call it a day, right?</p>
+<p>Or, if you are trying to be all corporate, you throw a bunch of hoops for people to jump through in an attempt to look bigger than you actually are. We&#8217;ve all seen &#8217;em.</p>
+<p>Just like <a href="https://www.blogmarketingacademy.com/great-about-pages/" target="_blank" rel="noopener noreferrer">we covered on the about page</a>, your contact us page is also a pretty important core page of your site. And for that reason, we should be more strategic about what we put on there than just throwing up a contact form.</p>
+<p>And here&#8217;s why&#8230;</p>
+<h2>We&#8217;re In The Human to Human Business</h2>
+<p>In the business world, there&#8217;s the common concepts of B2B (business to business) and B2C (business to consumer). But, perhaps we should redefine this to H2H: <a href="https://blog.hubspot.com/marketing/human-to-human-marketing#sm.0000zf9aplpiuczcq0p27rbfliqgc" target="_blank" rel="noopener noreferrer">Human to Human</a>.</p>
+<p>After all, people tend to forget that all the decision makers in this world are human beings. Real flesh-and-blood people.</p>
+<p>And, in this day and age where you can&#8217;t call a company without going through a big phone menu (and we all just dial 0 anyway to try to reach the operator, right?)&#8230; people just want human-to-human contact.</p>
+<div class="sw-tweet-clear"></div><a class="swp_CTT " href="https://twitter.com/share?text=Just+talk+to+a+real+person.+That%27s+what+we+all+want.&via=davidrisley&url=https://www.blogmarketingacademy.com/contact-us-page-conversions/" data-link="https://twitter.com/share?text=Just+talk+to+a+real+person.+That%27s+what+we+all+want.&via=davidrisley&url=https://www.blogmarketingacademy.com/contact-us-page-conversions/" rel="nofollow noreferrer noopener" target="_blank"><span class="sw-click-to-tweet"><span class="sw-ctt-text">Just talk to a real person. That's what we all want.</span><span class="sw-ctt-btn">Click To Tweet<i class="sw swp_twitter_icon"></i></span></span></a>
+<p><strong>Business is driven by conversations.</strong> Those conversations could take place on the phone, via email, in Facebook Messenger, on Twitter. There are numerous platforms that people may use to communicate.</p>
+<p>Those conversations are what drive business. Those conversations could be:</p>
+<ul>
+<li>A person with a casual question. They might not even be ready to buy from you right now, but the fact that you answered the question in a personal way rather than with a pre-formatted response makes it more likely they&#8217;ll buy from you when they are ready.</li>
+<li>A person with a question about one of your products. It is almost impossible for a sales page or a sales video to answer every question a person could possibly have. Conversations are what closes sales.</li>
+</ul>
+<p>This is a human business.</p>
+<p>Your business should be as open and welcoming to any and all conversations as it can possibly be.</p>
+<p><strong>Your contact page is a core component of conversions and sales, just like any landing page.</strong></p>
+<p>So, with that in mind, let&#8217;s discuss how to make a great &#8216;Contact Us&#8217; page.</p>
+<h2>What To Do On Your &#8216;Contact Us&#8217; Page</h2>
+<p>As I said before, what you DON&#8217;T want to do with your contact page is just throw up an email address or a form and forget about it. That&#8217;s not personal. It&#8217;s lazy.</p>
+<p>We want to put a bit more thought into this page.</p>
+<p>So, let&#8217;s discuss some strategies to keep in mind for your contact page&#8230;</p>
+<h3>#1 &#8211; Keep It Personal</h3>
+<p>One of the more annoying things I see on contact pages is the effort to look more corporate or bigger than you actually are. In my opinion, this is &#8220;old school&#8221; marketing where people think size equals better. But, these days, people want to do business with people, not inhuman corporations.</p>
+<p>Remember, this is human to human. So, talk to them like they are real people. Because&#8230; they are.</p>
+<p>Introduce them to your contact page. Welcome them to contact you. Make them feel invited. And talk to them like a real person would talk. Don&#8217;t use the word &#8220;we&#8221; if it is just you.</p>
+<h3>#2 &#8211; Show Them A Photo Of Who They&#8217;re Talking To</h3>
+<p>In keeping with the &#8220;human to human&#8221; thing, people like to know who they&#8217;re about to interact with. So, show them a photo of yourself. If it is a team, then show photos of the team members.</p>
+<p>Don&#8217;t hide behind &#8220;departments&#8221;. People hate that crap. If you indeed have a larger company with departments, you can still make those departments more real with team photos. <a href="http://www.scheduleonce.com/contactus" target="_blank" rel="noopener noreferrer">ScheduleOnce</a> does a nice job by including photos of their team members. If you hover over them, you get little quirky details about them which make them more human.</p>
+<img class="aligncenter size-full wp-image-14199" src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/contact-page-team.jpg" alt="" width="700" height="437" srcset="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/contact-page-team.jpg 700w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/contact-page-team-300x187.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />
+<h3>#3 &#8211; Include Frequently Asked Questions (FAQ)</h3>
+<p>This one depends on the nature of your business and the volume of inquiries you get. If you get a fair amount of email volume, you can often deal with some of the more common inquiries in advance using an FAQ and keep them from having to email you in the first place.</p>
+<p>So, one purpose of the FAQ is just that&#8230; a first layer of support that might very well handle their question instantly without an email needed.</p>
+<p>But, there is another purpose&#8230;</p>
+<p><strong>The FAQ on your contact page is also a potential marketing opportunity.</strong></p>
+<p>You can take common questions of your market and point them right to blog posts or even offers that answer their question. For instance, here&#8217;s one way I did that&#8230;</p>
+<img class="aligncenter size-full wp-image-14197" src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/bma-contact-page.jpg" alt="" width="700" height="293" srcset="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/bma-contact-page.jpg 700w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/bma-contact-page-300x126.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />
+<p>In my case, I do get a fair amount of people emailing me asking how to get started. So, I get up an FAQ question for it and I link them to <a href="http://www.blogmarketingacademy.com/start/" target="_blank" rel="noopener noreferrer">my Getting Started page</a> as well as a lead magnet that answers their question in more detail than they likely ever asked for (<a href="https://www.blogmarketingacademy.com/lp/start-from-scratch/" target="_blank" rel="noopener noreferrer">which you can find here</a>). That link is a squeeze page and will put them on my email list.</p>
+<p>Here&#8217;s another one&#8230;</p>
+<img class="aligncenter size-full wp-image-14198" src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/bma-contact-page-2.jpg" alt="" width="700" height="185" srcset="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/bma-contact-page-2.jpg 700w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/bma-contact-page-2-300x79.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />
+<p>This answers the question by pointing them to <a href="https://www.blogmarketingacademy.com/lab/" target="_blank" rel="noopener noreferrer">The Lab</a> and to the <a href="http://www.blogmarketingacademy.com/platinum/" target="_blank" rel="noopener">Lab Platinum program</a>.</p>
+<p>Using the FAQ on your contact page, you can route common niche questions right into products or services &#8211; or even <a href="http://www.blogmarketingacademy.com/lp/lead-magnet-ideas/" target="_blank" rel="noopener noreferrer">lead magnets</a> &#8211; and therefore use your contact page for conversions.</p>
+<h3>#4 &#8211; Provide Multiple, Frictionless Contact Options</h3>
+<p>It&#8217;s disappointing the number of companies (even small ones) who seem to look at customers as a nuisance that needs to be kept from direct contact. But, when you make having a conversation hard, you&#8217;re hurting your business.</p>
+<p>So, you want to have more than just email. Your contact options should be:</p>
+<ol>
+<li><strong>Multiple</strong>. Give people choices.</li>
+<li><strong>Frictionless</strong>. Contacting you should be easy and not make people jump through hoops. You also want to allow them to reach you on the platform which is easiest for them.</li>
+<li><strong>Instant</strong>. You want to get as close to instantaneous as you can.</li>
+</ol>
+<p>Potential contact options to include on your page are:</p>
+<ul>
+<li>Email (of course).</li>
+<li>Phone (if your business has a phone number <em>that somebody will actually answer</em>)</li>
+<li>Facebook Messenger</li>
+<li>Twitter</li>
+<li>Live Chat (if you use it)</li>
+<li>Snail Mail (yes, some people still use it)</li>
+</ul>
+<p>For email, you could simply display your email address on the page, although that could open you up to robots who collect your address for spam purposes. I&#8217;d recommend you use a form. I personally prefer (and recommend) <a href="http://www.blogmarketingacademy.com/recommends/gravityforms" target="_blank" rel="noopener noreferrer">Gravity Forms</a>. There are, of course, various free options such as <a href="https://wordpress.org/plugins/contact-form-7/" target="_blank" rel="noopener noreferrer">Contact Form 7</a>.</p>
+<p>With Gravity Forms, you can easily set up a question for what the general inquiry is about and then <a href="https://www.gravityhelp.com/documentation/article/email-routing-gravity-forms-confirmations/" target="_blank" rel="noopener noreferrer">route the message accordingly</a>. This is perfect if you have multiple departments, team members, or support seats.</p>
+<img class="aligncenter size-full wp-image-14200" src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Gravity-Forms-Review-Notification-Routing.png" alt="" width="800" height="236" srcset="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Gravity-Forms-Review-Notification-Routing.png 800w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Gravity-Forms-Review-Notification-Routing-300x89.png 300w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Gravity-Forms-Review-Notification-Routing-768x227.png 768w" sizes="(max-width: 800px) 100vw, 800px" />
+<p>Facebook is a great, frictionless way to have people contact you. It is practically a utility these days and most people are surfing the internet logged into Facebook 24/7. So, Facebook Messenger is a great and often overlooked platform for client contact. Plus, <strong>Facebook is setting up Messenger to be a central tool for communicating with businesses.</strong></p>
+<p>There are a few ways you can hook your &#8216;Contact Us&#8217; page up with Facebook Messenger. The first (and easiest) option is simply to hyperlink to your own Messenger page.</p>
+<p>Messenger has a shortlink which is m.me. If you then put your URL name after that, it creates a shortcut link right to Messenger so that somebody can message you directly. For instance, my Facebook page URL is&#8230;</p>
+<p style="text-align: center;"><strong>http://www.facebook.com/blogmarketingacademy</strong></p>
+<p>So, a link direct to my Messenger would be:</p>
+<p style="text-align: center;"><strong>http://m.me/blogmarketingacademy</strong></p>
+<p>That link opens up the Messenger web app full screen, preset to message me. You can place this link anywhere you want. <a href="http://m.me/blogmarketingacademy" target="_blank" rel="noopener noreferrer">Go ahead and click on it to see what it does.</a></p>
+<p>Another option is to use is <a href="http://www.zotabox.com" target="_blank" rel="noopener noreferrer">Zotabox</a>. They have a <a href="https://zotabox.com/zbv2/facebookchat" target="_blank" rel="noopener noreferrer">Facebook Live Chat widget</a> that you can use for free. It will only work with pages (not profiles). The widget is nice, but it appears in the lower corner of your page. Great for a live chat support option (if you&#8217;re actually there to answer their questions).</p>
+<img class="aligncenter size-full wp-image-14201" src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/zotabox-facebook-chat.jpg" alt="" width="521" height="100" srcset="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/zotabox-facebook-chat.jpg 521w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/zotabox-facebook-chat-300x58.jpg 300w" sizes="(max-width: 521px) 100vw, 521px" />
+<p>The option I personally love these days is <a href="http://www.manychat.com" target="_blank" rel="noopener noreferrer">ManyChat</a>. ManyChat is about much more than Facebook buttons. This tool allows you to build a list on Messenger, set up autoresponders, Messenger bots and much more. But, for the purposes of our contact page, they have a &#8220;growth tool&#8221; that allows you to put a simple &#8220;Send to Messenger&#8221; button anywhere you like (such as your contact page).</p>
+<img class="aligncenter size-full wp-image-14202" src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/manychat-growth-tools.jpg" alt="" width="446" height="715" srcset="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/manychat-growth-tools.jpg 446w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/manychat-growth-tools-187x300.jpg 187w" sizes="(max-width: 446px) 100vw, 446px" />
+<p>Manychat also now has a chat option where you can embed a widget which floats in the corner of your site for starting a chat. When they click it, it begins a chat via Facebook Messenger.</p>
+<p>The beauty of ManyChat is that when they contact you via Messenger, you can actually put them onto your Messenger list and foster ongoing engagement. And&#8230; the open rates are insanely high.</p>
+<p>If you wanted to simply invite people to connect on social media, that&#8217;s easy as well.</p>
+<ul>
+<li><a href="https://developers.facebook.com/docs/plugins/like-button" target="_blank" rel="noopener noreferrer">Facebook Like Button</a></li>
+<li><a href="https://publish.twitter.com/" target="_blank" rel="noopener noreferrer">Twitter Buttons and Widgets</a></li>
+</ul>
+<p>As for using a phone number, only do so if somebody will actually be there to answer it. I&#8217;m well aware that you could sign up for Google Voice and technically have a phone number for your business. I have one, too. But, I never answer it. It goes right to voicemail. And, for that reason, I do not list it on my contact page. Voice mail introduces friction. Plus, support is actually much faster (in my case) if you go through the standard support desk.</p>
+<p>All this to say&#8230;</p>
+<p>Make it super easy for people to start a conversation with you and your business. And, think beyond just email.</p>
+<h3>#5 &#8211; Set Proper Expectations</h3>
+<p>Above, I said you should try to make communication as frictionless and instant as possible. People really want instant gratification these days. Problem is, unless you have a team of support people, instant response is likely impossible.</p>
+<p>So, it is important to set expectations.</p>
+<p>If it is going to take you a day or so to reply to them, tell them. If there&#8217;s a chance you might not even see their email because you get hundreds of emails per day, tell them. If you have to introduce a few hoops because of the sheer volume of email, tell them that. They&#8217;ll understand as long as you&#8217;re upfront about it.</p>
+<p>If there are certain kinds of emails that are not likely to get any reply at all, tell them that, too. For instance, I get enough <a href="http://www.blogmarketingacademy.com/stupid-guest-post-requests/" target="_blank" rel="noopener noreferrer">stupid guest post requests</a> that I don&#8217;t even bother to acknowledge them anymore. It is a waste of time. So, I have a FAQ question about it where I openly tell them no. And I won&#8217;t bother replying. Perhaps Malika does when she goes through support, but I won&#8217;t. 🙂</p>
+<h3>#6 &#8211; Make The Contact Page Easy To Find</h3>
+<p>Top navigation, ideally. You don&#8217;t want to make people go hunting for how to contact you. It should be easy and obvious.</p>
+<p>Anything else is the equivalent of making people go through a phone menu and wait on hold for 30 minutes. You know how much you like that. 😉</p>
+<h2>How To Design A Great Contact Page</h2>
+<p>Now that we&#8217;ve discussed what to put on your contact page, let&#8217;s address what it looks like.</p>
+<p>Most blogs (including this one up until recently) simply put the stuff onto a standard page, as designed by your blog&#8217;s theme. As a result, that page usually has many of the same trappings as your blog, complete with a cluttered sidebar.</p>
+<p>Thing is, your contact page is one of your core marketing pages. It should be treated with the same level of importance as your about page. It should look professional. It should look different than a blog post.</p>
+<p>The tool that I am an avid user of &#8211; and highly recommend for being able to design pages any way you want &#8211; is <a href="http://www.blogmarketingacademy.com/go/architect" target="_blank" rel="noopener">Thrive Architect</a>. This is the tool I use to design my own contact page, as well as many other pages on this site.</p>
+<div id="attachment_15264" style="width: 1034px" class="wp-caption aligncenter"><img class="wp-image-15264 size-large" src="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Contact_Us___Thrive_Architect-1024x557.jpg" alt="" width="1024" height="557" srcset="https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Contact_Us___Thrive_Architect-1024x557.jpg 1024w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Contact_Us___Thrive_Architect-300x163.jpg 300w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Contact_Us___Thrive_Architect-768x418.jpg 768w, https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/Contact_Us___Thrive_Architect.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">My own contact page, as shown in Thrive Architect as I edit it.</p></div>
+<p>Various elements of Architect were used to assemble this page:</p>
+<ul>
+<li><strong>Page sections</strong> define the various rows going down the page.</li>
+<li><strong>Columns</strong> were used to display photo alongside the text at the top, as well as the contact form and the alternative contact options side by side at the bottom.</li>
+<li>The <strong>Tabbed Content</strong> element was used for the FAQ.</li>
+<li>The <strong>Content Toggle</strong> element was used for the collapsible questions under each tab of the FAQ.</li>
+<li>The <strong>custom HTML</strong> element was used to insert the Gravity Form (using the shortcode) as well as the Manychat growth tool for Facebook Messenger.</li>
+</ul>
+<p><a href="http://www.blogmarketingacademy.com/go/architect" target="_blank" rel="noopener">Thrive Architect</a> could easily be used to design almost any kind of contact page you&#8217;d like. All without knowing any HTML or CSS coding.</p>
+<h2>Final Thoughts</h2>
+<p>A contact page isn&#8217;t going to make or break a business. If you&#8217;re accessible and reply to people, people will have no problem getting in touch.</p>
+<p>In my view, though, it should be treated with more intention than what most people do with it.</p>
+<p>The contact page of your site is actually a marketing opportunity. It is a conversion opportunity.</p>
+<p>&#8230; if you set it up to facilitate that. 🙂</p>
+<span id="tve_leads_end_content" style="display: block; visibility: hidden; border: 1px solid transparent;"></span></div><span style="display:none" class="tl-placeholder-f-type-post_footer"></span><div class="swp-content-locator"></div><div class="askbma_cta">Got a question about this post? <a href="/ask/ target="_blank">Just #AskBMA!</a></div>				
+<div class="tags"><strong>FILED UNDER:</strong> <a href="https://www.blogmarketingacademy.com/tag/blog-structure/" rel="tag">Blog Structure</a>, <a href="https://www.blogmarketingacademy.com/tag/conversion/" rel="tag">Conversion</a>, <a href="https://www.blogmarketingacademy.com/tag/customer-support/" rel="tag">Customer Support</a>, <a href="https://www.blogmarketingacademy.com/tag/marketing/" rel="tag">Marketing</a></div>
+
+<div class="postinfo">
+<h5>This guide was written by David Risley</h5>
+<img alt='' src='https://secure.gravatar.com/avatar/6457bf09cd240f1d86dcd4e6d84f0218?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6457bf09cd240f1d86dcd4e6d84f0218?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' /> 
+	David Risley is the founder of the Blog Marketing Academy, a 20-year veteran blogger and online entrepreneur. His focus? Building a reliable, recurring business around his "lifestyle" and the lives of his students. He has this weird obsession with traveling in his motorhome around the country with his wife and 2 kids. David also likes to talk about himself in the third person. In bios like this one. <strong><a href="http://www.blogmarketingacademy.com/about-david-risley/">Read his full story</a>.</strong></div>
+	
+<div class="clearfix"></div>
+				</div>
+
+			</article>
+
+					
+
+
+	</div>
+			
+	
+</section>
+
+
+</div> 
+
+
+	<div id="mm-payment-options-dialog"></div>
+<div id="mm-payment-confirmation-dialog"></div>
+<script>
+	jQuery(document).ready(function(){
+		if(jQuery.isFunction("dialog")) {
+			jQuery("#mm-payment-options-dialog").dialog({autoOpen: false});
+			jQuery("#mm-payment-confirmation-dialog").dialog({autoOpen: false});
+		}
+	});
+</script>
+<div id="wtr-comments-end" class="at-footer"></div><script>
+jQuery( ".cross" ).hide();
+jQuery( ".mobile-nav" ).hide();
+jQuery( ".hamburger" ).click(function() {
+	jQuery( ".mobile-nav" ).slideToggle( "slow", function() {
+		jQuery( ".hamburger" ).hide();
+		jQuery( ".cross" ).show();
+	});
+});
+
+jQuery( ".cross" ).click(function() {
+	jQuery( ".mobile-nav" ).slideToggle( "slow", function() {
+		jQuery( ".cross" ).hide();
+		jQuery( ".hamburger" ).show();
+	});
+});
+</script>
+
+<footer id="footer">
+<div class="inner oh">
+	<nav class="footer_nav">
+		<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-14423" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-14423 current-menu-item"><a href="https://www.blogmarketingacademy.com/blog/">Blog</a></li>
+<li id="menu-item-14424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14424"><a href="https://www.blogmarketingacademy.com/about/">About</a></li>
+<li id="menu-item-14596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14596"><a href="https://www.blogmarketingacademy.com/daily/">The Daily</a></li>
+<li id="menu-item-15238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15238"><a href="https://www.blogmarketingacademy.com/library/">Courses</a></li>
+<li id="menu-item-12413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12413"><a href="/contact/">Support</a></li>
+<li id="menu-item-14454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14454"><a href="https://www.blogmarketingacademy.com/affiliate-disclaimer/">Affiliate Disclaimer</a></li>
+<li id="menu-item-12411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12411"><a href="/terms/">Terms</a></li>
+<li id="menu-item-12412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12412"><a href="/privacy/">Privacy</a></li>
+</ul></div>	</nav>
+	<nav class="footer_social_nav">  
+		<ul>
+		<li><a target="_blank" href="http://www.facebook.com/blogmarketingacademy"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a></li>
+		<li><a target="_blank" href="http://www.twitter.com/davidrisley"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
+		<li><a target="_blank" href="https://www.linkedin.com/in/drisley/"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a></li>
+		<li><a target="_blank" href="https://www.youtube.com/sixfigureblogger"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a></li>
+		</ul>
+	</nav>
+	<div class="footer_credit">
+		<p>Copyright &copy; 2008-2018 PC Media, Inc. - All Rights Reserved.</p>
+	</div>
+</div>
+</footer>
+<script>
+	var beamer_config = {
+		product_id : "OEIhzZGTnull", //DO NOT CHANGE: This is your product code on Beamer
+		selector : ".notifications", // Optional: Id, class (or list of both) of the HTML 
+		button : false, 
+	};
+</script>
+<script type="text/javascript" src="https://app.getbeamer.com/js/beamer-embed.js" defer="defer"></script>
+<noscript><img height='1' width='1' style='display: none;' src='https://www.facebook.com/tr?id=1429964817251669&ev=PageView&noscript=1&cd[domain]=www.blogmarketingacademy.com&cd[user_roles]=guest' alt='facebook_pixel'></noscript><noscript><img height='1' width='1' style='display: none;' src='https://www.facebook.com/tr?id=1429964817251669&ev=GeneralEvent&noscript=1&cd[post_type]=post&cd[content_name]=How+To+Create+A+%27Contact+Us%27+Page+That+Invites+Conversions+And+Generates+Sales&cd[post_id]=14196&cd[content_category]=The+Blog&cd[tags]=Blog+Structure%2C+Conversion%2C+Customer+Support%2C+Marketing&cd[domain]=www.blogmarketingacademy.com&cd[user_roles]=guest' alt='facebook_pixel'></noscript>
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var pys_fb_pixel_ajax_events = [];
+			/* ]]> */
+		</script>
+
+		<script type="text/javascript">!function(e,t){for(var n=t.querySelectorAll('a[href^="#cb"]'),a=0;a<n.length;a++)n[a].addEventListener("click",function(){this.setAttribute("data-clicked",!0)});var c=function(){var e=t.createElement("script"),n=t.getElementsByTagName("script")[0];e.src="https://cdn.convertbox.com/convertbox/js/embed.js",e.id="app-convertbox-script",e.dataset.uuid="563567cc-e5bd-4b7d-81b9-fff1a49c4e0b",n.parentNode.insertBefore(e,n)};e.addEventListener?e.addEventListener("load",c,!1):e.attachEvent("onload",c)}(window,document); </script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var socialLoginVars = {"endpointUrl":"https:\/\/www.blogmarketingacademy.com\/wp-content\/plugins\/membermouse\/endpoints\/auth.php"};
+var socialLoginVars = {"endpointUrl":"https:\/\/www.blogmarketingacademy.com\/wp-content\/plugins\/membermouse\/endpoints\/auth.php"};
+var socialLoginVars = {"endpointUrl":"https:\/\/www.blogmarketingacademy.com\/wp-content\/plugins\/membermouse\/endpoints\/auth.php"};
+var socialLoginVars = {"endpointUrl":"https:\/\/www.blogmarketingacademy.com\/wp-content\/plugins\/membermouse\/endpoints\/auth.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/membermouse/resources/js/common/mm-social_login.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/membermouse/resources/js/common/jquery.blockUI.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/accordion.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/button.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/datepicker.min.js'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":5,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/mouse.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/resizable.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/draggable.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/position.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/dialog.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/droppable.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/progressbar.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/selectable.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/sortable.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"100%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/table-of-contents-plus/front.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_frontend_options = {"is_editor_page":"","page_events":[],"is_single":"1","ajaxurl":"https:\/\/www.blogmarketingacademy.com\/wp-admin\/admin-ajax.php","social_fb_app_id":"140326912781","dash_url":"https:\/\/www.blogmarketingacademy.com\/wp-content\/plugins\/thrive-visual-editor\/thrive-dashboard","translations":{"Copy":"Copy"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/frontend.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/thrive-leads/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/worth-the-read/js/wtr.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/social-warfare/assets/js/script.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lessoncompletion = {"ajax_url":"https:\/\/www.blogmarketingacademy.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/themes/memberoni/scripts/jquery.msa.completion.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/www.blogmarketingacademy.com\/wp-admin\/admin-ajax.php","force_ajax_send":"","is_crawler":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js'></script>
+<script type='text/javascript' src='https://2x3g4s3lwcf21dke0v1b4mhf-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js'></script>
+<script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"a8766eed8d","ajax_url":"https:\/\/www.blogmarketingacademy.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":12588,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":[],"current_screen":{"screen_type":4,"screen_id":14196},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"a8766eed8d","ajax_url":"https:\/\/www.blogmarketingacademy.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":12588,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":[],"current_screen":{"screen_type":4,"screen_id":14196},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]})} /*]]> */</script><script type="text/javascript">var swpFloatBeforeContent = false;var swpClickTracking = false;</script>
+  
+</body>
+
+</html>
